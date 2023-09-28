@@ -1,4 +1,5 @@
 # PasswordGenerator
+Version 1.0
 
 This project is a procedural password generator that runs in CMD.
 The program will retrieve the same password from the same name and key.
