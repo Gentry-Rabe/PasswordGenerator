@@ -8,4 +8,4 @@ This project will (hopefully) mitigate the need for constant password forgetting
 WARNING: THIS IS NOT MEANT FOR GENUINE SECURITY PURPOSES.
 
 I intend for this program to be used in junction with spam or throwaway emails.
-Sometimes you'll lose an email but still need a password you forgot, this program is here to fix specifically that
+Sometimes you'll lose an email but still need a password you forgot, and this program is here to fix specifically that
